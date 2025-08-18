@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/untitled/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/untitled/","noteIcon":"signpost"}
 ---
 
+---
+dg-note-icon
 fbvgjhrbgrjbgr
