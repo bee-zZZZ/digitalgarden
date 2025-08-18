@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/the-threshold/","title":"The Threshold","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"tags":["gardenEntry"],"noteIcon":"signpost"}
+{"title":"The Threshold","dg-home":true,"dg-publish":true,"dg-note-icon":"signpost","dg-pinned":true,"dg-hide-in-graph":true,"cssclasses":["cards","cards-cols-3","cards-cover","cards-cover-no-border","cards-title-hide-icons"],"dg-metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"created":"2023-01-02T21:30:15+06:00","updated":"2025-05-28T23:37:10+06:00","permalink":"/notes/the-threshold/","metatags":{"description":"Utsob's Digital Garden","og:description":"Utsob's Digital Garden"},"hideInGraph":true,"pinned":true,"contentClasses":"cards cards-cols-3 cards-cover cards-cover-no-border cards-title-hide-icons","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"signpost"}
 ---
 
 
